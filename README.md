@@ -14,6 +14,6 @@ The problem becomes more complicated in cases where data is coming from multiple
 * Write the data back out to a CSV with cluster ID and later update the file with unique entities with the help of threshlod score.
 
 ###  Code Running Sequence ###
-1. Update the dataset name in deduplicatio.py
+1. Update the dataset name in deduplication.py
 2. Add the fields which needs to be governed while training with dedupe.
 3. Run deduplication.py using python3
