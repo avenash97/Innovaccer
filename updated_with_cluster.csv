@@ -1,0 +1,104 @@
+Cluster ID,confidence_score,Id,ln,dob,gn,fn,canonical_gn,canonical_ln,canonical_Id,canonical_fn,canonical_dob
+27,,1,SMITH JR,01/03/68,F,WILLIAM,,,,,
+28,,2,ROTHMEYER JR,01/03/68,F,WILLIAM,,,,,
+29,,3,ASBY JR,01/03/68,F,WILLIAM,,,,,
+1,0.791089,4,SALTER JR,01/03/68,F,WILLIAM,b'f',b'salter jr',b'4',b'william',b'01/03/68'
+1,0.791089,5,SALTER JR,01/03/68,F,WILLIAM,b'f',b'salter jr',b'4',b'william',b'01/03/68'
+2,0.7388106585,6,BLAND JR,21/02/62,F,WILLIAM,b'f',b'bland',b'11',b'william',b'21/02/62'
+2,0.7388106585,7,BLAND JR,21/02/62,F,WILLIAM,b'f',b'bland',b'11',b'william',b'21/02/62'
+2,0.7388106585,8,BLAND JR,21/02/62,F,WILLIAM,b'f',b'bland',b'11',b'william',b'21/02/62'
+3,0.791089,9,SHAFFER JR,21/02/62,F,WILLIAM,b'f',b'shaffer jr',b'9',b'william',b'21/02/62'
+3,0.791089,10,SHAFFER JR,21/02/62,F,WILLIAM,b'f',b'shaffer jr',b'9',b'william',b'21/02/62'
+2,0.5979653955,11,BLAND III,21/02/62,F,WILLIAM,b'f',b'bland',b'11',b'william',b'21/02/62'
+30,,12,BLAND JR,21/02/62,F,BILL,,,,,
+2,0.7632915139,13,BLAND,21/02/62,F,WILLIAM,b'f',b'bland',b'11',b'william',b'21/02/62'
+2,0.7388106585,14,BLAND JR,21/02/62,F,WILLIAM,b'f',b'bland',b'11',b'william',b'21/02/62'
+5,0.791089,15,BLAND JR,08/06/54,F,WILLIAM,b'f',b'bland jr',b'15',b'william',b'08/06/54'
+5,0.791089,16,BLAND JR,08/06/54,F,WILLIAM,b'f',b'bland jr',b'15',b'william',b'08/06/54'
+17,0.791089,17,BLAND JR,25/10/53,F,WILLIAM,b'f',b'bland jr',b'17',b'william',b'25/10/53'
+17,0.791089,18,BLAND JR,25/10/53,F,WILLIAM,b'f',b'bland jr',b'17',b'william',b'25/10/53'
+31,,19,SHAFFER JR,25/10/53,F,WILLIAM,,,,,
+8,0.0127313,20,DUNCAN JR,25/10/53,F,THOMAS,b'f',b'duncan jr',b'20',b'thomas',b'25/10/53'
+25,0.213953,21,CARLSON JR,25/10/53,F,ROY,b'f',b'carlson jr',b'21',b'roy',b'25/10/53'
+25,0.213953,22,CARLSON JR,25/10/53,F,RON,b'f',b'carlson jr',b'21',b'roy',b'25/10/53'
+8,0.0127313,23,DUNCAN JR,25/10/53,F,ROY,b'f',b'duncan jr',b'20',b'thomas',b'25/10/53'
+7,0.7809737126,24,MICHAELSON,25/10/53,M,ROY,b'm',b'michaelson',b'24',b'roy',b'25/10/53'
+7,0.7809737126,25,MICHAELSON JR,25/10/53,M,ROY,b'm',b'michaelson',b'24',b'roy',b'25/10/53'
+7,0.7809737126,26,MICHAELSON,25/10/53,M,ROY,b'm',b'michaelson',b'24',b'roy',b'25/10/53'
+7,0.7809737126,27,MICHAELSON JR,25/10/53,M,ROY,b'm',b'michaelson',b'24',b'roy',b'25/10/53'
+32,,28,MICHAELSON JR,01/05/51,M,ROY,,,,,
+11,0.791089,29,MICHAELSON JR,17/06/48,M,ROY,b'm',b'michaelson jr',b'29',b'roy',b'17/06/48'
+11,0.791089,30,MICHAELSON JR,17/06/48,M,ROY,b'm',b'michaelson jr',b'29',b'roy',b'17/06/48'
+33,,31,MICHAELSON JR,09/04/47,M,ROY,,,,,
+34,,32,MICHAELSON JR,09/04/47,M,ROBERT,,,,,
+35,,33,MICHAELSON JR,09/04/47,M,BOB,,,,,
+12,0.344552,34,MUSTAPHA JR,11/03/47,M,OWEN,b'm',b'mustapha jr',b'34',b'owen',b'11/03/47'
+12,0.344552,35,MUSTAPHA JR,11/03/47,M,OWAN,b'm',b'mustapha jr',b'34',b'owen',b'11/03/47'
+13,0.7910887003,36,HOUGHTON JR,31/01/46,M,LAWRENCE,b'm',b'houghton jr',b'36',b'lawrence',b'31/01/46'
+13,0.7910887003,37,HOUGHTON JR,31/01/46,M,LAWRENCE,b'm',b'houghton jr',b'36',b'lawrence',b'31/01/46'
+13,0.7910887003,38,HOUGHTON JR,31/01/46,M,LAWRENCE,b'm',b'houghton jr',b'36',b'lawrence',b'31/01/46'
+15,0.7910887003,39,LIND JR,31/01/46,M,LAWRENCE,b'm',b'lind jr',b'39',b'lawrence',b'31/01/46'
+15,0.7910887003,40,LIND JR,31/01/46,M,LAWRENCE,b'm',b'lind jr',b'39',b'lawrence',b'31/01/46'
+16,0.7910887003,41,LIND JR,31/01/46,M,KENNETH,b'm',b'lind jr',b'41',b'kenneth',b'31/01/46'
+16,0.7910887003,42,LIND JR,31/01/46,M,KENNETH,b'm',b'lind jr',b'41',b'kenneth',b'31/01/46'
+36,,43,LIND JR,20/01/46,M,JOHN,,,,,
+37,,44,CAIN JR,20/01/46,M,JOHN,,,,,
+38,,45,CLARK,09/06/45,M,JOHN,,,,,
+18,0.5037796497,46,CLARK,09/02/45,M,RONALD,b'm',b'clark',b'46',b'ronald',b'09/02/45'
+18,0.5037796497,47,CLARK,09/02/45,M,DONALD,b'm',b'clark',b'46',b'ronald',b'09/02/45'
+19,0.7637224197,48,CLARK,16/12/44,M,JOHN,b'm',b'clark jr',b'48',b'john',b'16/12/44'
+19,0.77740556,49,CLARK JR,16/12/44,M,JOHN,b'm',b'clark jr',b'48',b'john',b'16/12/44'
+19,0.77740556,50,CLARK JR,16/12/44,M,JOHN,b'm',b'clark jr',b'48',b'john',b'16/12/44'
+20,0.7910887003,51,MICHAELSON JR,16/12/44,M,JOHN,b'm',b'michaelson jr',b'51',b'john',b'16/12/44'
+20,0.7910887003,52,MICHAELSON JR,16/12/44,M,JOHN,b'm',b'michaelson jr',b'51',b'john',b'16/12/44'
+20,0.7910887003,53,MICHAELSON JR,16/12/44,M,JOHN,b'm',b'michaelson jr',b'51',b'john',b'16/12/44'
+21,0.791089,54,MICHAELSON JR,24/04/40,M,JOHN,b'm',b'michaelson jr',b'54',b'john',b'24/04/40'
+21,0.791089,55,MICHAELSON JR,24/04/40,M,JOHN,b'm',b'michaelson jr',b'54',b'john',b'24/04/40'
+22,0.7910887003,56,MICHAELSON JR,24/06/39,M,JOHN,b'm',b'michaelson jr',b'56',b'john',b'24/06/39'
+22,0.7910887003,57,MICHAELSON JR,24/06/39,M,JOHN,b'm',b'michaelson jr',b'56',b'john',b'24/06/39'
+22,0.7910887003,58,MICHAELSON JR,24/06/39,M,JOHN,b'm',b'michaelson jr',b'56',b'john',b'24/06/39'
+23,0.7910887003,59,MICHAELSON JR,24/06/39,M,JAMES,b'm',b'michaelson jr',b'59',b'james',b'24/06/39'
+23,0.7910887003,60,MICHAELSON JR,24/06/39,M,JAMES,b'm',b'michaelson jr',b'59',b'james',b'24/06/39'
+39,,61,MICHAELSON JR,24/06/39,M,JACK,,,,,
+40,,62,MICHAELSON JR,09/06/39,M,JACK,,,,,
+26,0.791089,63,LARSON JR,09/06/39,M,HAROLD,b'm',b'larson jr',b'63',b'harold',b'09/06/39'
+26,0.791089,64,LARSON JR,09/06/39,M,HAROLD,b'm',b'larson jr',b'63',b'harold',b'09/06/39'
+41,,65,MUSTAPHA JR,07/10/37,M,HAROLD,,,,,
+42,,66,HOUGHTON JR,07/10/37,M,HAROLD,,,,,
+0,0.7910887003,67,MELVIN JR,07/10/37,M,HAROLD,b'm',b'melvin jr',b'70',b'harold',b'07/10/37'
+0,0.7910887003,68,MELVIN JR,07/10/37,M,HAROLD,b'm',b'melvin jr',b'70',b'harold',b'07/10/37'
+0,0.7910887003,69,MELVIN JR,07/10/37,M,HAROLD,b'm',b'melvin jr',b'70',b'harold',b'07/10/37'
+0,0.7910887003,70,MELVIN JR,07/10/37,M,HAROLD,b'm',b'melvin jr',b'70',b'harold',b'07/10/37'
+0,0.7910887003,71,MELVIN JR,07/10/37,M,HAROLD,b'm',b'melvin jr',b'70',b'harold',b'07/10/37'
+0,0.7910887003,72,MELVIN JR,07/10/37,M,HAROLD,b'm',b'melvin jr',b'70',b'harold',b'07/10/37'
+0,0.7910887003,73,MELVIN JR,07/10/37,M,HAROLD,b'm',b'melvin jr',b'70',b'harold',b'07/10/37'
+0,0.7910887003,74,MELVIN JR,07/10/37,M,HAROLD,b'm',b'melvin jr',b'70',b'harold',b'07/10/37'
+0,0.7910887003,75,MELVIN JR,07/10/37,M,HAROLD,b'm',b'melvin jr',b'70',b'harold',b'07/10/37'
+4,0.7910887003,76,CHAVAS JR,07/10/37,M,HAROLD,b'm',b'chavas jr',b'76',b'harold',b'07/10/37'
+4,0.7910887003,77,CHAVAS JR,07/10/37,M,HAROLD,b'm',b'chavas jr',b'76',b'harold',b'07/10/37'
+4,0.7910887003,78,CHAVAS JR,07/10/37,M,HAROLD,b'm',b'chavas jr',b'76',b'harold',b'07/10/37'
+4,0.7910887003,79,CHAVAS JR,07/10/37,M,HAROLD,b'm',b'chavas jr',b'76',b'harold',b'07/10/37'
+6,0.791089,80,MICHAELSON JR,07/10/37,M,HAROLD,b'm',b'michaelson jr',b'80',b'harold',b'07/10/37'
+6,0.791089,81,MICHAELSON JR,07/10/37,M,HAROLD,b'm',b'michaelson jr',b'80',b'harold',b'07/10/37'
+43,,82,SMITH JR,07/10/37,M,HAROLD,,,,,
+4,0.7910887003,83,CHAVAS JR,07/10/37,M,HAROLD,b'm',b'chavas jr',b'76',b'harold',b'07/10/37'
+4,0.7910887003,84,CHAVAS JR,07/10/37,M,HAROLD,b'm',b'chavas jr',b'76',b'harold',b'07/10/37'
+9,0.7910887003,85,FAGEN JR,07/10/37,M,HAROLD,b'm',b'fagen jr',b'85',b'harold',b'07/10/37'
+9,0.7910887003,86,FAGEN JR,07/10/37,M,HAROLD,b'm',b'fagen jr',b'85',b'harold',b'07/10/37'
+44,,87,FAGEN JR,07/10/37,M,GEORGE,,,,,
+45,,88,GRIFFIN JR,07/10/37,M,DARH,,,,,
+46,,89,GRIFFIN JR,10/07/37,M,DARL,,,,,
+47,,90,GRIFFIN JR,07/05/37,M,DARL,,,,,
+10,0.7910887003,91,GRIFFIN JR,07/05/37,M,CLIFFORD,b'm',b'griffin jr',b'91',b'clifford',b'07/05/37'
+10,0.7910887003,92,GRIFFIN JR,07/05/37,M,CLIFFORD,b'm',b'griffin jr',b'91',b'clifford',b'07/05/37'
+10,0.7910887003,93,GRIFFIN JR,07/05/37,M,CLIFFORD,b'm',b'griffin jr',b'91',b'clifford',b'07/05/37'
+48,,94,GRIFFIN JR,07/05/37,M,CLARENCE,,,,,
+24,0.7574459314,95,HANNA,24/11/34,M,ADDISON J,b'm',b'hanna',b'95',b'addison',b'24/11/34'
+24,0.7486961186,96,HANNA,24/11/34,M,ADDISON JOHN,b'm',b'hanna',b'95',b'addison',b'24/11/34'
+24,0.7709198892,97,HANNA,24/11/34,M,ADDISON,b'm',b'hanna',b'95',b'addison',b'24/11/34'
+24,0.7709198892,98,HANNA,24/11/34,M,ADDISON,b'm',b'hanna',b'95',b'addison',b'24/11/34'
+24,0.7709198892,99,HANNA,24/11/34,M,ADDISON,b'm',b'hanna',b'95',b'addison',b'24/11/34'
+49,,100,GALETICH JR,15/10/32,M,ADDISON,,,,,
+14,0.7662977576,101,FUNARO JONES,06/12/37,F,HARRIET,b'f',b'funaro j',b'101',b'harriet',b'06/12/37'
+14,0.7703049481,102,FUNARO J,06/12/37,F,HARRIET,b'f',b'funaro j',b'101',b'harriet',b'06/12/37'
+14,0.7658871114,103,FUNARO,06/12/37,F,HARRIET,b'f',b'funaro j',b'101',b'harriet',b'06/12/37'
